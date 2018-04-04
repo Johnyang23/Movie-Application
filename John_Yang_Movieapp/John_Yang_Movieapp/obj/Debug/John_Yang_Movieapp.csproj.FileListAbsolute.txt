@@ -1,0 +1,18 @@
+c:\users\100941170\documents\visual studio 2015\Projects\John_Yang_Movieapp\John_Yang_Movieapp\bin\Debug\John_Yang_Movieapp.exe.config
+c:\users\100941170\documents\visual studio 2015\Projects\John_Yang_Movieapp\John_Yang_Movieapp\bin\Debug\John_Yang_Movieapp.exe
+c:\users\100941170\documents\visual studio 2015\Projects\John_Yang_Movieapp\John_Yang_Movieapp\bin\Debug\John_Yang_Movieapp.pdb
+c:\users\100941170\documents\visual studio 2015\Projects\John_Yang_Movieapp\John_Yang_Movieapp\obj\Debug\John_Yang_Movieapp.csprojResolveAssemblyReference.cache
+c:\users\100941170\documents\visual studio 2015\Projects\John_Yang_Movieapp\John_Yang_Movieapp\obj\Debug\John_Yang_Movieapp.Form1.resources
+c:\users\100941170\documents\visual studio 2015\Projects\John_Yang_Movieapp\John_Yang_Movieapp\obj\Debug\John_Yang_Movieapp.Properties.Resources.resources
+c:\users\100941170\documents\visual studio 2015\Projects\John_Yang_Movieapp\John_Yang_Movieapp\obj\Debug\John_Yang_Movieapp.csproj.GenerateResource.Cache
+c:\users\100941170\documents\visual studio 2015\Projects\John_Yang_Movieapp\John_Yang_Movieapp\obj\Debug\John_Yang_Movieapp.exe
+c:\users\100941170\documents\visual studio 2015\Projects\John_Yang_Movieapp\John_Yang_Movieapp\obj\Debug\John_Yang_Movieapp.pdb
+C:\Users\John Yang\Desktop\John_Yang_Movieapp\John_Yang_Movieapp\bin\Debug\John_Yang_Movieapp.exe.config
+C:\Users\John Yang\Desktop\John_Yang_Movieapp\John_Yang_Movieapp\obj\Debug\John_Yang_Movieapp.exe
+C:\Users\John Yang\Desktop\John_Yang_Movieapp\John_Yang_Movieapp\obj\Debug\John_Yang_Movieapp.pdb
+C:\Users\John Yang\Desktop\John_Yang_Movieapp\John_Yang_Movieapp\bin\Debug\John_Yang_Movieapp.exe
+C:\Users\John Yang\Desktop\John_Yang_Movieapp\John_Yang_Movieapp\bin\Debug\John_Yang_Movieapp.pdb
+C:\Users\John Yang\Desktop\John_Yang_Movieapp\John_Yang_Movieapp\obj\Debug\John_Yang_Movieapp.csprojResolveAssemblyReference.cache
+C:\Users\John Yang\Desktop\John_Yang_Movieapp\John_Yang_Movieapp\obj\Debug\John_Yang_Movieapp.Form1.resources
+C:\Users\John Yang\Desktop\John_Yang_Movieapp\John_Yang_Movieapp\obj\Debug\John_Yang_Movieapp.Properties.Resources.resources
+C:\Users\John Yang\Desktop\John_Yang_Movieapp\John_Yang_Movieapp\obj\Debug\John_Yang_Movieapp.csproj.GenerateResource.Cache
